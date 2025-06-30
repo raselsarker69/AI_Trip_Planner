@@ -28,7 +28,7 @@ uv python list
 
 ### 🏗️ Create Virtual Environment
 ```bash
-uv venv env --python cpython-3.10.18-windows-x86_64-none
+uv venv env --python cpython-3.11.13-windows-x86_64-none
 ```
 
 ### ✅ Activate Virtual Environment
